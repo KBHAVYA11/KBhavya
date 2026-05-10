@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kbhavya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kbhavya29"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:k.bhavya4040@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=kbhavya&style=for-the-badge&color=1F4E79"/>
 </p>
@@ -99,3 +99,4 @@
 ---
 
 <p align="center">⭐ If you find any of my projects useful, consider giving them a star!</p>
+
